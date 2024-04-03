@@ -2,6 +2,6 @@
 
 - A new database named "online_sales" has been created and then all records from the "online_retail" table are retreived.
 
-- Handling Missing Values and Duplicates:
-Checks for missing values in critical columns (e.g., InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country) and suggests handling strategies.
-Identifies duplicate rows based on certain criteria and removes them.
+- Then missing values and duplicates are handled from the dataset.Checks for missing values in critical columns
+(e.g InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country) and
+Identification of the duplicate rows is done.
