@@ -1,6 +1,7 @@
 # Here the Sales dataset is analyzed using SQL. Below are the steps followed to analyze insights from the data: 
 
-## 1) A new database named "online_sales" has been created and then all records from the "online_retail" table are retreived.
-## 2) Handling Missing Values and Duplicates:
+- A new database named "online_sales" has been created and then all records from the "online_retail" table are retreived.
+
+- Handling Missing Values and Duplicates:
 Checks for missing values in critical columns (e.g., InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country) and suggests handling strategies.
 Identifies duplicate rows based on certain criteria and removes them.
