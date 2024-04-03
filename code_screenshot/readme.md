@@ -27,3 +27,14 @@ sales over different years.
 from different countries. We can analyze the variation of quantity purchased with the customer's country and identify
 seasonal trends in customer purchasing behavior.
 
+- Price Analysis checks the distribution of unit prices for items.
+
+  
+## Each query in the SQL code performs specific analyses to gain insights into different aspects of the online retail dataset. This comprehensive approach enables stakeholders to understand customer behavior, product performance, sales trends, geographical patterns, and pricing dynamics, among other factors, and make informed business decisions based on the findings.
+
+
+
+
+
+
+
