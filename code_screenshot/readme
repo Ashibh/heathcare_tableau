@@ -20,4 +20,10 @@ time and calculates the average invoice value change over time.
 - Geographical Analysis identifies the country with the highest total revenue. It examines the distribution of customers
 across different countries. From here we can investigate the correlation between the number of invoices and country.
 
--
+- Time Analysis is done to identify the busiest days or months in terms of sales. Additionally, it analyzes trends in
+sales over different years.
+
+- With the help of Customer Behavior Analysis, we can explore patterns in types of products purchased by customers 
+from different countries. We can analyze the variation of quantity purchased with the customer's country and identify
+seasonal trends in customer purchasing behavior.
+
