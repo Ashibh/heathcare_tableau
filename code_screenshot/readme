@@ -17,6 +17,7 @@ of items sold is done here.
 - Invoice Analysis examines the distribution of invoice quantities. It analyzes trends in the number of invoices over
 time and calculates the average invoice value change over time.
 
--
+- Geographical Analysis identifies the country with the highest total revenue. It examines the distribution of customers
+across different countries. From here we can investigate the correlation between the number of invoices and country.
 
 -
