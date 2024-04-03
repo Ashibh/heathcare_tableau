@@ -1,7 +1,7 @@
 # Tableau Analysis
 
 
-##  Customer Analysis:
+### Customer Analysis:
 
 - Number of Invoices per Customer: This indicates the level of engagement of each customer with the online retail platform. Customers with a higher count of invoices are more actively making purchases.
 Customer 12748 has the highest number of invoices (210), indicating a high level of engagement and frequent purchases.Customer 14911 has a significant number of invoices (201), suggesting consistent purchasing behavior.
