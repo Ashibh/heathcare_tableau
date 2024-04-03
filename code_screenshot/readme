@@ -6,4 +6,17 @@
 (e.g InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country) and
 Identification of the duplicate rows is done.
 
+- Customer Analysis is done by calculating metrics such as the number of invoices per customer, number of unique
+customers in each country, average quantity of items purchased per invoice by each customer, and identifies the 
+top 10 customers by total spending.
+
+- Product Analysis identifies top-selling products by quantity and revenue. Calculations for the average unit price
+of items sold is done here.
+
+
+- Invoice Analysis examines the distribution of invoice quantities. It analyzes trends in the number of invoices over
+time and calculates the average invoice value change over time.
+
+-
+
 -
