@@ -28,8 +28,12 @@ It is possible to take advantage of peak sales months and boost demand during sl
 
 ### Geographic Analysis
 
--
+- The statistic shows the company's global sales reach by incorporating countries from different parts of the world.
+Given their inclusion in the dataset, nations including the United States, Australia, and the United Kingdom seem to have substantial sales activity. Countries range greatly in their unit costs; Austria, for example, has comparatively low prices (1.701,52) whereas the United Kingdom has much higher prices (2.245.715,47400101). Variations in unit prices can be caused by a number of things, including firm pricing strategy, local market conditions, and exchange rates. Greater purchasing power, greater average salaries, or premium pricing for particular products could be the reasons behind higher unit prices in nations like the US, UK, and Australia.
+- On the other hand, reduced unit prices in nations such as Austria can be a sign of altered market dynamics or a decline in purchasing power. The corporation may adjust its pricing strategies to certain markets or areas in response to demand, competition, and consumer preferences, as indicated by the existence of localized unit prices. Finding prospects for market penetration and expansion might be aided by analyzing sales data across national borders. Economies that have substantial sales volumes but relatively lower unit pricing could be emerging markets or potential locations for strategic expansion and investment. By comprehending pricing dynamics, the business may modify its pricing strategy in a way that keeps it competitive and increases its market share.
 
+ In conclusion, this examination of nations, unit costs, and geographic locations offers insightful information about pricing policies, market dynamics, sales results, and chances for strategic choice-making and international market expansion.
+ 
 
 ###  Analysis
 
