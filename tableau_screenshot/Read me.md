@@ -36,15 +36,7 @@ Given their inclusion in the dataset, nations including the United States, Austr
  In conclusion, this examination of nations, unit costs, and geographic locations offers insightful information about pricing policies, market dynamics, sales results, and chances for strategic choice-making and international market expansion.
  
 
-###  Analysis
+### Price Analysis
 
 -
-
-
-###  Analysis
-
--
-
-
-
 
