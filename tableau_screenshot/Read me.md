@@ -20,17 +20,25 @@ Any notable departures from anticipated sales trends may call for more research 
 
 ### Invoice Analysis 
 
+- The biggest counts of invoice numbers are found in June, August, and July, suggesting that these months have more sales activity.On the other hand, January, February, March, and December have lower counts of invoice numbers, which may indicate that there was less sales activity during these months.There could be a seasonal explanation for the larger amounts of invoices in June, July, and August, such as summer vacations, holidays, or special summertime promotions.Comparably, lower numbers in December can indicate a decline in sales as a result of the holiday season, when consumers might be less likely to make purchases.External factors like as shifts in customer behavior,
+industry-specific events, or economic situations may also have an impact on variations in invoice counts. For instance, Mother's Day or the end of the school year may fall in May or June, when sales activity is expected to be higher.Businesses may more effectively manage inventory levels, staffing, and marketing strategies when they have a clear understanding of the monthly changes in sales activity. Higher sales months, for instance, would need hiring more people and keeping more goods on hand to fulfill customer demand, but lower sales months might free up resources for other company initiatives like product development or marketing campaigns.
+
+It is possible to take advantage of peak sales months and boost demand during slower months by implementing strategies like seasonal product offerings or focused promotions. In conclusion, our examination of monthly invoice counts offers insightful information on seasonal fluctuations, sales patterns, and chances for strategic resource allocation and planning in retail operations.
+
+
+### Geographic Analysis
+
+-
+
 
 ###  Analysis
 
+-
 
 
 ###  Analysis
 
-
-
-###  Analysis
-
+-
 
 
 
