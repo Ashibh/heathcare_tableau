@@ -38,5 +38,9 @@ Given their inclusion in the dataset, nations including the United States, Austr
 
 ### Unit Analysis
 
--
+- For every day of the invoice date, the data displays the number of unit prices and the related unit prices. The number of unit prices as well as the unit prices on certain days of the month vary.Higher sales activity or transaction volumes are indicated on days with higher unit price counts, like the 10th, 11th, and 12th. On the other hand, days with lower counts—like the second and fourth—might indicate comparatively slower sales days.Monthly sales trends and patterns can be found by analyzing everyday sales activity over time. Payday may align with increased sales volumes and unit pricing near the middle of the month, specifically on the 10th, 11th, and 12th.
+- Seasonal variables, special events, and promotional efforts can all have an impact on sales peaks, like those that occur on the 11th and 12th. Companies can take advantage of periods of strong demand and optimize marketing tactics by utilizing knowledge from peak sales days.Businesses can improve inventory management procedures by having a better understanding of sales activity changes. Businesses may prevent stockouts and excess inventory and keep productive operations by matching inventory levels to anticipated sales volumes on certain days.
+
+To summarise, the examination of daily sales activity and unit prices yields significant insights into pricing dynamics, transaction volumes, sales patterns, and inventory management options for retail operations.
+
 
